@@ -1,7 +1,7 @@
+# BigO-Notation Version 3.1
 # Path to program.cs (code)
   BigO-Notation/BigO/BigO/Program.cs
-# BigO-Notation Version 3.1
-Purpose:
+# Purpose:
   This project is a console application that carries out five calculations on a users given input.
 
   The user will be prompted to enter a number(the limit of the number is 10,000 because any higher will crash the program)
@@ -20,7 +20,7 @@ Purpose:
   Else if the user enters "n" or N, then the application will output "Shutting down. Thanks for using the application created by Beck", 
   wait 2.5 seconds, then close the application.
 
-Versions/patches:
+# Versions/patches:
   1.0 - Basic programming complete, all calculations work correctly and output. Success criteria passed.
   
   2.0 - Moved code into seperate functions to make the application easier to understand and more efficient.
