@@ -1,3 +1,5 @@
+# Path to program.cs (code)
+  BigO-Notation/BigO/BigO/Program.cs
 # BigO-Notation Version 3.1
 Purpose:
   This project is a console application that carries out five calculations on a users given input.
@@ -10,7 +12,8 @@ Purpose:
   Else if the user enters a valid number, the code will proceed to carry out the calculations on the number N and will output the values.
 
   The calculations carried out will be the Notations: 0(1), 0(n), 0(n^2), 0(2^n), 0(log n).
-  These calculations are also known as (in the same order): Constant time, Linear time, Polynomial time, Exponential time, Logarithmic time.
+  These calculations are also known as (in the same order): Constant time, Linear time, Polynomial time, Exponential time, 
+  Logarithmic   time.
 
   Once the calculations have taken place and been outputted, it will ask the user whether they want to enter a new number.
   If the user enters the letter "y" or "Y", then they will be prompted to enter a new number and the loop will continue from the start.
