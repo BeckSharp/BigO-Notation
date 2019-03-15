@@ -136,7 +136,7 @@ namespace BigO
             return Iteration();
         }
 
-        static string Iteration()
+       static string Iteration()
         {
             try
             {
@@ -151,11 +151,7 @@ namespace BigO
                 }
                 if (Answer == "N")
                 {
-                    //Informing the user the application is closing, and exiting the environment.
-                    Console.Clear();
-                    Console.WriteLine("Shutting down. Thanks for using the application created by Beck");
-                    System.Threading.Thread.Sleep(2500);
-                    Environment.Exit(0);
+                    Exit();
                     return "";
                 }
                 else
@@ -168,6 +164,15 @@ namespace BigO
             {
                 return Iteration();
             }
+        }
+
+        public static void Exit()
+        {
+            //Informing the user the application is closing, and exiting the environment.
+            Console.Clear();
+            Console.WriteLine("Shutting down. Thanks for using the application created by Beck");
+            System.Threading.Thread.Sleep(2500);
+            Environment.Exit(0);
         }
 
         static string ConstantTime(double value)
