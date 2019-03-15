@@ -1,0 +1,29 @@
+C:\Users\tombe\Desktop\Computing\Classwork\BigO\BigO\bin\Debug\BigO.exe.config
+C:\Users\tombe\Desktop\Computing\Classwork\BigO\BigO\bin\Debug\BigO.exe
+C:\Users\tombe\Desktop\Computing\Classwork\BigO\BigO\bin\Debug\BigO.pdb
+C:\Users\tombe\Desktop\Computing\Classwork\BigO\BigO\obj\Debug\BigO.csprojAssemblyReference.cache
+C:\Users\tombe\Desktop\Computing\Classwork\BigO\BigO\obj\Debug\BigO.csproj.CoreCompileInputs.cache
+C:\Users\tombe\Desktop\Computing\Classwork\BigO\BigO\obj\Debug\BigO.exe
+C:\Users\tombe\Desktop\Computing\Classwork\BigO\BigO\obj\Debug\BigO.pdb
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\bin\Debug\BigO.exe.config
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\bin\Debug\BigO.exe
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\bin\Debug\BigO.pdb
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\obj\Debug\BigO.csproj.CoreCompileInputs.cache
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\obj\Debug\BigO.exe
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\obj\Debug\BigO.pdb
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\bin\Debug\BigO.exe.manifest
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\bin\Debug\BigO.application
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\obj\Debug\BigO.exe.manifest
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\obj\Debug\BigO.application
+C:\Users\tombe\Desktop\Computing\Classwork\12. Algorithms\BigO\BigO\obj\Debug\BigO.csprojAssemblyReference.cache
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\bin\Debug\BigO.exe.config
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\bin\Debug\BigO.exe.manifest
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\bin\Debug\BigO.application
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\bin\Debug\BigO.exe
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\bin\Debug\BigO.pdb
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\obj\Debug\BigO.csprojAssemblyReference.cache
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\obj\Debug\BigO.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\obj\Debug\BigO.exe.manifest
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\obj\Debug\BigO.application
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\obj\Debug\BigO.exe
+C:\Users\Razer\Desktop\BigO-Notation-master\BigO-Notation-master\BigO\BigO\obj\Debug\BigO.pdb
