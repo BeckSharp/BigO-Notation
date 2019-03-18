@@ -9,7 +9,7 @@ namespace BigO
         static void Main(string[] args)
         {
             //Customisation.
-            Console.Title = "BigO Notation V3.1 by Beck";
+            Console.Title = "BigO Notation V3.2 by Beck";
             Console.ForegroundColor = ConsoleColor.Green;
 
             //Calling EnterValue class to start the solutions process.
