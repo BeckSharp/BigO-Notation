@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 
 namespace BigO
@@ -11,14 +11,14 @@ namespace BigO
             //Customisation.
             Console.Title = "BigO Notation V3.1 by Beck";
             Console.ForegroundColor = ConsoleColor.Green;
-       
+
             //Calling EnterValue class to start the solutions process.
             EnterValue();
 
             Console.ReadLine();
         }
 
-        static string EnterValue()
+        public static void EnterValue()
         {
             try
             {
@@ -29,22 +29,22 @@ namespace BigO
                 if (Valid(EnteredValue) == false)
                 {
                     //Asking user to enter a value if value entered is invalid.
-                    return EnterValue();
+                    EnterValue();
                 }
                 else
                 {
                     //Outputting the different types of notation.
                     Output(Convert.ToDouble(EnteredValue));
-                    return EnterValue();
+                    EnterValue();
                 }
             }
             catch
             {
-                return EnterValue();
+                EnterValue();
             }
         }
 
-        static bool CharacterValidation(string EnteredValue)
+        public static bool CharacterValidation(string EnteredValue)
         {
             try
             {
@@ -88,7 +88,7 @@ namespace BigO
         static bool DoubleValidation(string EnteredValue)
         {
             try
-            {  
+            {
                 //Validating that the value entered by the user is double/correct format.
                 if (double.TryParse(EnteredValue, out double Checker) == true)
                 {
@@ -118,8 +118,8 @@ namespace BigO
                 return false;
             }
         }
-       
-        static string Output(double value)
+
+         public static void Output(double value)
         {
             Console.Clear();
 
@@ -133,10 +133,10 @@ namespace BigO
             Console.WriteLine();
 
             //Asking the user if they want to enter a new value.
-            return Iteration();
+            Iteration();
         }
 
-       static string Iteration()
+        public static void Iteration()
         {
             try
             {
@@ -146,23 +146,22 @@ namespace BigO
                 //Checking the user's input.
                 if (Answer == "Y".ToString())
                 {
-                   Console.Clear();
-                   return EnterValue();
+                    Console.Clear();
+                    EnterValue();
                 }
                 if (Answer == "N")
                 {
                     Exit();
-                    return "";
                 }
                 else
                 {
                     Console.Clear();
-                    return Iteration();
+                    Iteration();
                 }
             }
             catch
             {
-                return Iteration();
+                Iteration();
             }
         }
 
@@ -238,7 +237,7 @@ namespace BigO
                 else
                 {
                     return "Notation 0(n^2) = Request timed out, value was too large to process";
-                }                
+                }
             }
             catch
             {
@@ -281,7 +280,7 @@ namespace BigO
                     return ("Notation 0(log n) = " + timeComplexity);
                 }
                 if (value > 1000)
-                { 
+                {
                     return "Notation 0(log n) = Request timed out, value was too large to process";
                 }
                 else
