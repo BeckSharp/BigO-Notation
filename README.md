@@ -34,3 +34,6 @@
       - Added a limit to where users can enter a number above 10,000 but the code returns "request timed out", rather than crashing.
       - Removed a line of code that could be inserted into another line making the code more efficient.
       - Aesthetic features e.g. Title and green text.
+      
+  3.2 - Converted some functions into procedures, to remove unnecessary code from the code.
+      - Improving efficiency of code.
