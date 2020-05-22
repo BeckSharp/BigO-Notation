@@ -178,13 +178,11 @@ namespace BigO
         {
             try
             {
-                {
-                    //O(1) Constant Time
-                    double timeComplexity = 0;
-                    double y = (2 * value) + 3;
-                    timeComplexity++;
-                    return ("Notation 0(1) = " + timeComplexity);
-                }
+                //O(1) Constant Time
+                double timeComplexity = 0;
+                double y = (2 * value) + 3;
+                timeComplexity++;
+                return ("Notation 0(1) = " + timeComplexity); 
             }
             catch
             {
